@@ -3646,16 +3646,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.70.0",
+            "version": "2.71.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "d3298b38ea8612e5f77d38d1a99438e42f70341d"
+                "reference": "98276233188583f2ff845a0f992a235472d9466a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/d3298b38ea8612e5f77d38d1a99438e42f70341d",
-                "reference": "d3298b38ea8612e5f77d38d1a99438e42f70341d",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/98276233188583f2ff845a0f992a235472d9466a",
+                "reference": "98276233188583f2ff845a0f992a235472d9466a",
                 "shasum": ""
             },
             "require": {
@@ -3748,7 +3748,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-09-07T16:43:50+00:00"
+            "time": "2023-09-25T11:31:05+00:00"
         },
         {
             "name": "nette/schema",
@@ -3814,16 +3814,16 @@
         },
         {
             "name": "nette/utils",
-            "version": "v4.0.1",
+            "version": "v4.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/utils.git",
-                "reference": "9124157137da01b1f5a5a22d6486cb975f26db7e"
+                "reference": "cead6637226456b35e1175cc53797dd585d85545"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/utils/zipball/9124157137da01b1f5a5a22d6486cb975f26db7e",
-                "reference": "9124157137da01b1f5a5a22d6486cb975f26db7e",
+                "url": "https://api.github.com/repos/nette/utils/zipball/cead6637226456b35e1175cc53797dd585d85545",
+                "reference": "cead6637226456b35e1175cc53797dd585d85545",
                 "shasum": ""
             },
             "require": {
@@ -3845,8 +3845,7 @@
                 "ext-intl": "to use Strings::webalize(), toAscii(), normalize() and compare()",
                 "ext-json": "to use Nette\\Utils\\Json",
                 "ext-mbstring": "to use Strings::lower() etc...",
-                "ext-tokenizer": "to use Nette\\Utils\\Reflection::getUseStatements()",
-                "ext-xml": "to use Strings::length() etc. when mbstring is not available"
+                "ext-tokenizer": "to use Nette\\Utils\\Reflection::getUseStatements()"
             },
             "type": "library",
             "extra": {
@@ -3895,9 +3894,9 @@
             ],
             "support": {
                 "issues": "https://github.com/nette/utils/issues",
-                "source": "https://github.com/nette/utils/tree/v4.0.1"
+                "source": "https://github.com/nette/utils/tree/v4.0.2"
             },
-            "time": "2023-07-30T15:42:21+00:00"
+            "time": "2023-09-19T11:58:07+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -10701,16 +10700,16 @@
         },
         {
             "name": "laravel/sail",
-            "version": "v1.24.1",
+            "version": "v1.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/sail.git",
-                "reference": "3a373bb2845623aed2017c672dc61c84ae974890"
+                "reference": "e81a7bd7ac1a745ccb25572830fecf74a89bb48a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/sail/zipball/3a373bb2845623aed2017c672dc61c84ae974890",
-                "reference": "3a373bb2845623aed2017c672dc61c84ae974890",
+                "url": "https://api.github.com/repos/laravel/sail/zipball/e81a7bd7ac1a745ccb25572830fecf74a89bb48a",
+                "reference": "e81a7bd7ac1a745ccb25572830fecf74a89bb48a",
                 "shasum": ""
             },
             "require": {
@@ -10762,7 +10761,7 @@
                 "issues": "https://github.com/laravel/sail/issues",
                 "source": "https://github.com/laravel/sail"
             },
-            "time": "2023-09-01T14:05:17+00:00"
+            "time": "2023-09-11T17:37:09+00:00"
         },
         {
             "name": "league/container",
@@ -11845,16 +11844,16 @@
         },
         {
             "name": "phpstan/phpdoc-parser",
-            "version": "1.24.0",
+            "version": "1.24.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpdoc-parser.git",
-                "reference": "3510b0a6274cc42f7219367cb3abfc123ffa09d6"
+                "reference": "9f854d275c2dbf84915a5c0ec9a2d17d2cd86b01"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/3510b0a6274cc42f7219367cb3abfc123ffa09d6",
-                "reference": "3510b0a6274cc42f7219367cb3abfc123ffa09d6",
+                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/9f854d275c2dbf84915a5c0ec9a2d17d2cd86b01",
+                "reference": "9f854d275c2dbf84915a5c0ec9a2d17d2cd86b01",
                 "shasum": ""
             },
             "require": {
@@ -11886,9 +11885,9 @@
             "description": "PHPDoc parser with support for nullable, intersection and generic types",
             "support": {
                 "issues": "https://github.com/phpstan/phpdoc-parser/issues",
-                "source": "https://github.com/phpstan/phpdoc-parser/tree/1.24.0"
+                "source": "https://github.com/phpstan/phpdoc-parser/tree/1.24.1"
             },
-            "time": "2023-09-07T20:46:32+00:00"
+            "time": "2023-09-18T12:18:02+00:00"
         },
         {
             "name": "phpstan/phpstan",
